@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "unix",
+	"font_size": 14,
+	"ignored_packages":
+	[
+	],
+	"show_encoding": true,
+	"vintage_ctrl_keys": true,
+	"word_wrap": true
+}

@@ -1,0 +1,8 @@
+{
+	"disable_all_completions": true,
+	"disable_default_directive_completions": false,
+	"disable_default_element_completions": true,
+	"disable_default_js_completions": false,
+	"disable_indexed_directive_completions": false,
+	"disable_indexed_isolate_completions": false
+}

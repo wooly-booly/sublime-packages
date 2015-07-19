@@ -1,0 +1,31 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"AngularJS",
+		"Blade Snippets",
+		"Bootstrap 3 Snippets",
+		"Color Highlighter",
+		"Composer",
+		"Emmet",
+		"FindKeyConflicts",
+		"Gist",
+		"jQuery Snippets pack",
+		"Laravel Blade Highlighter",
+		"Laravel Forms Bootstrap Snippets",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Syntax Checker",
+		"PHP-Twig",
+		"rsub",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Twig"
+	]
+}

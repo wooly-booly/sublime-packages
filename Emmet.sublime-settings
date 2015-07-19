@@ -1,0 +1,8 @@
+{
+    "syntaxProfiles": {
+        "html": {
+            // "tag_nl": true,
+            "tag_nl_leaf": true
+        }
+    }
+}

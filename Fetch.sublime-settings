@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"960gs": "https://github.com/nathansmith/960-Grid-System/archive/master.zip",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"opencart": "https://github.com/opencart/opencart/archive/master.zip",
+		"wordpress_en": "https://wordpress.org/latest.zip",
+		"wordpress_ru": "https://ru.wordpress.org/wordpress-4.1.1-ru_RU.zip"
+	}
+}
