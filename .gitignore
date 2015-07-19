@@ -6,3 +6,6 @@ Package Control.*-ca-bundle
 Package Control.system-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
+
+# Packege Settings
+ Gist.sublime-settings
